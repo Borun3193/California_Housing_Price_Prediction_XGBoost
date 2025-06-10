@@ -37,7 +37,8 @@ California_Housing_Price_Prediction_XGBoost/
 ├── README.md                               # This file
 ├── .gitattributes                          # GitHub settings
 
-```bash
+```
+
 ---
 
 ## Running the FastAPI Server (Locally)
