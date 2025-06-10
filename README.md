@@ -53,11 +53,12 @@ California_Housing_Price_Prediction_XGBoost/
 
 ## Model Performance (on Test Data)
 
-Model	RMSE	R² Score
-Ridge	0.77	0.547
-Lasso	0.805	0.506
-Random Forest	0.608	0.718
-XGBoost	0.593	0.732
+| Model         | RMSE   | R² Score |
+|---------------|--------|----------|
+| Ridge         | 0.770  | 0.547    |
+| Lasso         | 0.805  | 0.506    |
+| Random Forest | 0.608  | 0.718    |
+| **XGBoost**   | **0.593** | **0.732** |
 
 ---
 
